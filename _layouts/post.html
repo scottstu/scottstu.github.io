@@ -2,17 +2,15 @@
 layout: minimal
 ---
 	{% include components/headers.html headertype= page.header_type imghero=page.header_img projects=page.project_links %}
-	<main class="container-lg pb-3 flex-fill">
-		<div class="row pt-2">
-			<article id="maincontent" class="col-lg-8 mt-3 e-content">
-			{{- content -}}
-			
-			{% if page.show_applause %} 
-			<div class="mb-2 mt-5 text-center"><applause-button id="applause" class="mx-auto" style="width: 40px; height: 40px;" url="{{ page.url | absolute_url }}"></applause-button></div>
-			{% endif %}
+
+    <main class="container-sm pb-3 flex-fill">
+		<div class="row pt-2 ">
+			<article id="maincontent" class="col-lg-12 mt-3 e-content">
+			{{- content -}}	
 			</article>
 		</div>
 	</main>
+
 	{%- if page.show_bottomnavs -%}
 	  {%- include components/navbeforeafter.html -%}
 	{%- endif -%}
