@@ -1,6 +1,6 @@
 ---
 header_type: hero
-header_img: https://picsum.photos/id/1018/2000/2000
+header_img: https://picsum.photos/id/404/2000/2000
 title: Shopify custom FAQ page
 subtitle: How to use Shopify Metaobjects to build a custom FAQ page for your Shopify store
 tags:

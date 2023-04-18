@@ -100,7 +100,7 @@ navbar:
   - title   : posts # Label
     url     : /posts/ # url	
   - title   : about # Label
-    url     : /about/ # url	
+    url     : /about # url	
 #  - title   : Cheatsheets
 #    url     : /cheatsheets
 #  - title   : Extras
