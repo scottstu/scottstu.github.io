@@ -26,9 +26,11 @@ project_links:
       label: linkedin
 ---
 
+<!--
 <div class="text-center my-4">
   <a class="btn btn-primary btn-lg my-3 text-white" href="./docs" role="button">Read the docs</a>
 </div>
+-->
 
 <div class="text-center my-4 py-5 px-3 bg-primary rounded-lg chulapa-overlay-img"  style="
 background-image: url(https://dieghernan.github.io/chulapa/assets/img/iconbanner/github.svg)">
