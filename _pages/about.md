@@ -8,6 +8,7 @@ header_img: "./assets/img/site/banner.png"
 # og_image: "./assets/img/site/banner.png"
 include_on_search: true
 show_sociallinks: false
+layout: post
 ---
 My name is Scott Stubberfield and I have worked in the technology consulting and software development field for almost 25 years. Most of my career was spent working at Microsoft where I held many roles including consultant, program manager, technical specialist and product manager. 
 
