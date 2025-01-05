@@ -1,7 +1,7 @@
 ---
 layout: landingpage
 title: Scott Stubberfield 
-subtitle: Freelance Developer for Shopify customization and Python automation.
+subtitle: Freelance Developer for Shopify customization and Python automation
 excerpt: My name is Scott Stubberfield and I am a freelance developer that can provide Shopify store setup, theme customization and Python script automation for customers.
 header_type: splash
 header_img: "./assets/img/site/banner.png"
