@@ -29,6 +29,10 @@ project_links:
       label: resume
 
 ---
+<!--
+you can find more font awesome icons here:
+https://fontawesome.com/search?m=free&o=r
+-->
 
 <!--
 <div class="text-center my-4">

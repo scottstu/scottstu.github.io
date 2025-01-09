@@ -31,4 +31,4 @@ I have also created several Python scripts that improved the automation of sever
 * Customer creation and tagging of customers
 * Setup and configuration of GitHub actions to execute all automation scripts
 
-Outside of work I live in Georgetown, Ontario Canada and enjoy golfing, hockey and slo-pitch baseball. I volunteer my time coaching hockey and baseball and running the travel program for our local baseball association. 
+Outside of work I live in Georgetown, Ontario Canada and enjoy golfing, hockey and slo-pitch baseball. I volunteer my time coaching youth hockey as a non-parent coach. 
