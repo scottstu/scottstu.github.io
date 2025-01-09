@@ -24,6 +24,10 @@ project_links:
     - url: https://ca.linkedin.com/in/scott-stubberfield-810490125
       icon: fab fa-linkedin fa-lg
       label: linkedin
+    - url: ./assets/ScottStubberfield_Resume.pdf
+      icon: fas fa-briefcase fa-lg
+      label: resume
+
 ---
 
 <!--
