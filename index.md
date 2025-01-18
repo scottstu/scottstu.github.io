@@ -12,9 +12,9 @@ project_links:
     - url: /about
       icon: fab fa-github
       label: about
-    - url: mailto:scott@stubberfield.ca
+    - url: https://docs.google.com/forms/d/e/1FAIpQLSfSWMyH06qsngfvmfJzNpR_khiZIgrk78_KiMl1dkMYW7HWpQ/viewform?usp=header
       icon: far fa-envelope fa-lg
-      label: email
+      label: contact me
     - url: https://github.com/scottstu
       icon: fab fa-github fa-lg
       label: github
