@@ -65,6 +65,10 @@ Step 6 - Create required Metaobjects
 *	Setup metaobject definitions
 *	Add in FAQ Category and FAQ Item entries
 
+Here is a look at the final product.
+
+![FAQ Final Product](/assets/img/site/FAQFinal.png){:style="display:block; margin-left:10px; border: 2px solid #999999; padding: 5px"}
+
 Please check out my video where I walk through how to build this in Shopify.
 
 {% include snippets/video.html id="zbUHRyxii5Y" provider="youtube" nolazy="true" %}
@@ -83,9 +87,9 @@ Create the following metaobjects:
 
 *FAQ Category*
 
-![FAQ Category Definition](/assets/img/site/FAQCategoryDefinition.png){:style="display:block; margin-left:10px"}
+![FAQ Category Definition](/assets/img/site/FAQCategoryDefinition.png){:style="display:block; margin-left:10px; border: 2px solid #999999;"}
 
 *FAQ Item*
 
-![FAQ Item Definition](/assets/img/site/FAQItemDefinition.png){:style="display:block; margin-left:10px"}
+![FAQ Item Definition](/assets/img/site/FAQItemDefinition.png){:style="display:block; margin-left:10px; border: 2px solid #999999;"}
 
