@@ -97,10 +97,12 @@ navbar:
     url     :  # default["url/baseurl"]
     img     :  # An small image, try 30x30px
   nav:
-  - title   : posts # Label
+  - title   : projects # Label
     url     : /posts/ # url	
   - title   : about # Label
     url     : /about # url	
+  - title   : contact
+    url     : https://docs.google.com/forms/d/e/1FAIpQLSfSWMyH06qsngfvmfJzNpR_khiZIgrk78_KiMl1dkMYW7HWpQ/viewform?usp=header
 #  - title   : Cheatsheets
 #    url     : /cheatsheets
 #  - title   : Extras

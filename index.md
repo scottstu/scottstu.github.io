@@ -12,9 +12,9 @@ project_links:
     - url: /about
       icon: fab fa-github
       label: about
-    - url: https://docs.google.com/forms/d/e/1FAIpQLSfSWMyH06qsngfvmfJzNpR_khiZIgrk78_KiMl1dkMYW7HWpQ/viewform?usp=header
+    - url: "mailto:scott@stubberfield.ca"
       icon: far fa-envelope fa-lg
-      label: contact me
+      label: email
     - url: https://github.com/scottstu
       icon: fab fa-github fa-lg
       label: github
@@ -43,7 +43,7 @@ https://fontawesome.com/search?m=free&o=r
 <div class="text-center my-4 py-5 px-3 bg-primary rounded-lg chulapa-overlay-img"  style="
 background-image: url(https://dieghernan.github.io/chulapa/assets/img/iconbanner/github.svg)">
   <p><i class="fas fa-code fa-3x"></i></p>
-  <h2 class="font-weight-light py-3">posts</h2>
+  <h2 class="font-weight-light py-3">projects</h2>
   <h5 class="font-weight-light py-2">Learn about the projects I have built to extend and customize Shopify and create automation with Python.</h5>
   <a class="btn btn-outline-secondary btn-sm my-3 text-white" href="/posts" role="button">posts</a>
 </div>
