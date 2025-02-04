@@ -128,12 +128,12 @@ navbar:
 #Social links to be placed on your site footer
 footer:
   links:
-    - label : Repo on Github # Label
-      icon  : fab fa-github # Fontawesome 5 icon
-      url   : https://github.com/dieghernan/chulapa-101 # A link or email: https://twitter.com/jack, mail@example.com
-    - label: "RSS"
-      icon: "fa fa-rss"
-      url:  "./atom.xml"
+    - url: https://twitter.com/stubbeee
+      icon: fab fa-twitter fa-lg
+      label: twitter
+    - url: https://ca.linkedin.com/in/scott-stubberfield-810490125
+      icon: fab fa-linkedin fa-lg
+      label: linkedin
   copyright: # default is © <year> <name> 
   
 # C. Theme Settings

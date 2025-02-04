@@ -39,7 +39,7 @@ I can help grow your business too by providing increased automation and efficien
 * Creation of packing slips, custom invoices and draft orders via script
 * Creation of an operations console that can be used to call all ecommerce management scripts and functions
 
-<span style="font-size: 125%; font-weight: bold;">If you are interested in seeing how I can help grow your business please contact me via email at [scott@stubberfield.ca](mailto:scott@stubberfield.ca?subject=Working with Scott Stubberfield) or submit a request using this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfSWMyH06qsngfvmfJzNpR_khiZIgrk78_KiMl1dkMYW7HWpQ/viewform?usp=header" target="_blank" rel="noopener noreferrer">form</a></span>
+{% include contact-me.html %}
 
 Outside of work I live in Georgetown, Ontario Canada and enjoy golfing, hockey and slo-pitch baseball. I volunteer my time coaching youth hockey as a non-parent coach. 
 

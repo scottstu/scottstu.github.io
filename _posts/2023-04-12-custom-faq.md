@@ -8,6 +8,9 @@ tags:
   - metaobjects
 categories: []
 show_sociallinks: false
+show_tags: false
+show_related: false
+show_bottomnavs: false
 layout: post
 ---
 
