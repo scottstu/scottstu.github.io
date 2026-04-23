@@ -28,6 +28,8 @@ In order to get started we first need to add a metafield to our product variant 
 
 The next step is that we need to modify the theme code to read in this value by variant and display it on the product card when the product is out of stock. This will vary by theme but we will show how this would work in the Dawn Theme in our demo store. In order to make changes to this we must change the data that is displayed when the user navigates directly to the page as well as the data that is displayed when they click on different variants within the product card. We needed to make changes to snippets/price.liquid, snippets/buy-buttons.liquid, snippets/product-variant-picker.liquid, and assets/product-info.js.
 
+
+
 Once all the changes have been made you can now see that when the user selects the New Zealand model of this product they now see "SOLD OUT - ETA FEB 15" on both the product card as well as on the **Add to cart** button.
 
 ![Sold Out - After view](/assets/img/site/inventory-ETA-After-1.png){:style="display:block; margin-left:10px; border: 2px solid #999999; padding: 5px; width: 60%;"}
